@@ -29,7 +29,7 @@ const Harender_Singh= {
 <!-- START_SECTION:blog -->
 | Qualification | Studied At | Institute |
 | :-: | :---: | :----: |
-| MCA | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIjgxdZxs9tbJCP3upebOQjt2IjzmjwP_BdA&s" width="40" height="30"> | NIT Kurkshetra | 
+| MCA | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIjgxdZxs9tbJCP3upebOQjt2IjzmjwP_BdA&s" width="40" height="30"> | NIT Kurukshetra | 
 <!-- END_SECTION:blog -->
 </td>
 </tr>
